@@ -1,0 +1,23 @@
+{
+    "name": "Owloper",
+    "slug": "owloper",
+    "highlight": "Owloper is a community-first, Idle & Active gaming project with NFTs and upgradeable NFTs.",
+    "logo": "/img/owloper.png",
+    "tags": [
+      "idle",
+      "nft",
+      "play-to-earn",
+      "utility"
+    ],
+    "status": "live",
+    "website": "https://owloper.com/",
+    "twitter": "https://twitter.com/owloper",
+    "summary": "We believe a great community creates the best projects. The aim of the Owloper NFT collection is to build the most inclusive, strongest community and sustainable project around NFTs.",
+    "telegram": "",
+    "github": "",
+    "discord": "https://discord.com/invite/owloper",
+    "docs": "https://docs.owloper.com/",
+    "cmc": "https://coinmarketcap.com/currencies/owloper/",
+    "token": "OWL",
+    "date": ""
+  }
